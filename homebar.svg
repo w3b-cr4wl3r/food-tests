@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="330"
+   height="37.689999"
+   viewBox="0 0 330.00001 37.69"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:'Bodoni MT';-inkscape-font-specification:'Bodoni MT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;word-spacing:50px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1"
+       x="40.210815"
+       y="27.940771"
+       id="text1"><tspan
+         id="tspan1"
+         x="40.210815"
+         y="27.940771">Garry Cherry</tspan><tspan
+         x="40.210815"
+         y="74.607399"
+         id="tspan2" /></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1"
+       id="path5"
+       d="m 174.92922,26.950032 -10.70148,-9.752014 -10.85746,9.57805 5.96778,-13.19125 -12.46441,-7.3662766 14.38977,1.5993731 3.15403,-14.1306596 2.92559,14.1797176 14.41371,-1.3669518 -12.58166,7.1641743 z"
+       transform="translate(0.6848062,8.5263565)" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path6"
+       d="m 174.92922,26.950032 -10.70148,-9.752014 -10.85746,9.57805 5.96778,-13.19125 -12.46441,-7.3662766 14.38977,1.5993731 3.15403,-14.1306596 2.92559,14.1797176 14.41371,-1.3669518 -12.58166,7.1641743 z"
+       transform="matrix(0.46561811,0,0,0.46561811,88.491873,14.040453)" />
+  </g>
+</svg>

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Garry Cherry</title>
+  <style>
+    html, body{
+        height: 100%;
+        margin: 0%;
+        padding: 0%;
+    }
+    .image1 {
+      width: 100%;
+      height: auto;
+    }
+    .homebar{
+      width: 500px;
+      height: 50px;
+    }
+
+    .navbar {
+      background: rgba(0, 0, 0, 0.5);
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 40px;
+    }
+    .quote {
+      display: flex;
+      justify-content: center;
+      align-items: center;  
+      padding: 100px;
+    }
+    .latest{
+      max-width: 100%;
+      height: 100%;
+      display: block;  
+    }
+    .paragraph{
+      font-size: 5vw;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    @media (max-width: 1200px) {
+  .image1 {
+    height: 100vh;
+    object-fit: cover;
+  }
+}
+    .pdf{
+      max-width: 100%;
+      height: 100%;
+      display: block; 
+    }
+
+  </style>
+</head>
+<body>
+  <div class="navbar">
+    <img class="homebar" src="homebar.svg" alt="cook">
+  </div>
+  <img class="image1" src="image1.png" alt="guy with fluffy hair holding croissant in Paris">
+  <div class="quote"><img class="pic" src="quote.png" alt="quote" width="600"></div>
+  <div class="latest">
+     <img class="latest" src="latest.png" alt="stuff">
+  </div>
+  <div class="paragraph">Here is the newest of our books "food tests for illitarate monkeys"</div>
+  <div class="pdf">
+    <a href="pdf.pdf" download="w3logo">
+  <img class="pdf" src="Screenshot 2025-11-09 202956.png" alt="Download PDF";>
+
+</a>
+
+
+  </div>
+</body>
+</html>
